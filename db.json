@@ -1,0 +1,81 @@
+{
+  "Products": [
+    {
+      "id": "1",
+      "title": "Under Eye Gel",
+      "imageUrl": "https://beayou.thespecialcharacter.com/_next/image?url=https%3A%2F%2Fbeayou.s3.ap-south-1.amazonaws.com%2Funder-eye-gel-thumbnail-1707472332809.jpg&w=640&q=75",
+      "price": 500
+    },
+    {
+      "id": "2",
+      "title": "Foaming Face Wash",
+      "imageUrl": "https://beayou.thespecialcharacter.com/_next/image?url=https%3A%2F%2Fbeayou.s3.ap-south-1.amazonaws.com%2Fface-wash-thumbnail-1707472735285.jpg&w=640&q=75",
+      "price": 499
+    },
+    {
+      "id": "3",
+      "title": "Body Lotion",
+      "imageUrl": "https://beayou.thespecialcharacter.com/_next/image?url=https%3A%2F%2Fbeayou.s3.ap-south-1.amazonaws.com%2Fbody-lotion-thumbnail-1707473511061.jpg&w=640&q=75",
+      "price": 799
+    },
+    {
+      "id": "4",
+      "title": "Gluta Radiance",
+      "imageUrl": "https://beayou.thespecialcharacter.com/_next/image?url=https%3A%2F%2Fbeayou.s3.ap-south-1.amazonaws.com%2Fgluta-radiance-thumbnail-1707473415374.jpg&w=640&q=75",
+      "price": 699
+    },
+    {
+      "id": "5",
+      "title": "Cleanser",
+      "imageUrl": "https://beayou.thespecialcharacter.com/_next/image?url=https%3A%2F%2Fbeayou.s3.ap-south-1.amazonaws.com%2Fcleanser-thumbnail-1707473034581.jpg&w=640&q=75",
+      "price": 399
+    },
+    {
+      "id": "6",
+      "title": "Vitamin C Face Cleanser",
+      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_233cf920-2dd7-4666-8b9a-79202b129eae?qlt=65&fmt=webp&w=640&q=75",
+      "price": 799
+    },
+    {
+      "id": "7",
+      "title": "Skin Booster Hyaluronic Acid",
+      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_8de0b4e4-b1a2-43d5-afbf-0f4a47cbed20?qlt=65&fmt=webp&w=640&q=75",
+      "price": 799
+    },
+    {
+      "id": "8",
+      "title": "Retinol Anti Aging Face Serum",
+      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_62bb1328-c8a0-4550-a651-a6e11b140c9e?qlt=65&fmt=webp&w=640&q=75",
+      "price": 699
+    }
+  ],
+  "CartItems": [
+    {
+      "id": "2",
+      "title": "Foaming Face Wash",
+      "imageUrl": "https://beayou.thespecialcharacter.com/_next/image?url=https%3A%2F%2Fbeayou.s3.ap-south-1.amazonaws.com%2Fface-wash-thumbnail-1707472735285.jpg&w=640&q=75",
+      "price": 499,
+      "Quantity": 1
+    }
+  ],
+  "users": [
+    {
+      "email": "kundan@gmail.com",
+      "password": "$2a$10$WeIp2dyLtKOvLS.90hJZ0uxdN5G3wycwgB3RgJL0NIr7zh1tKAo62",
+      "name": "kundan",
+      "id": 1
+    },
+    {
+      "email": "niravvaland@gmail.com",
+      "password": "$2a$10$Yo1dPRjKrtQdJarBApPTOO7q.gH50wJYjBxNlfj9AuAhySusUIJ4W",
+      "name": "Nirav",
+      "id": 2
+    },
+    {
+      "email": "abc@gmail.com",
+      "password": "$2a$10$NHB93DTeHLvzR0cd0bxPy.GzHqAXhq508M8Gd/cmgIupyi7WxuVg2",
+      "name": "ABC",
+      "id": 3
+    }
+  ]
+}
